@@ -1,5 +1,6 @@
 import pandas as pd
 #comentário 1
+#comentário 2
 pessoas = {
     'Nome': ['Ana', 'Rui', 'Pedro', 'Sara'],
     'Idade': [20, 30, 26, 40],
